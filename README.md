@@ -1,3 +1,3 @@
-<p aling=center> # CalculadoJS² <p>
+<h1 aling=center> # CalculadoJS² <h1>
 
-<p align=center>.Calculadora feita em Javascript com duas versões. <p>
+.Calculadora feita em Javascript com duas versões.
